@@ -1,5 +1,6 @@
 body{
-  background: palegreen;
+  background: rgb(17, 166, 224);
+  border: 10px solid rgba(145, 14, 168, 0.986);
   margin: 0;
 }
 h1{
