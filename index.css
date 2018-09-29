@@ -1,0 +1,10 @@
+body{
+  background: yellowgreen;
+  border: 10px solid rgba(14, 150, 168, 0.986);
+  margin: 0;
+}
+h1{
+  color: aliceblue;
+  text-align: center;
+  font-weight: 900;
+}
