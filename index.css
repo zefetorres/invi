@@ -11,13 +11,10 @@ h1{
   color: aliceblue;
   text-align: center;
   font-weight: 900;
-<<<<<<< HEAD
-=======
 }
 
 @media screen and (max-width: 768px) {
  body {
     background: darkcyan;
   }
->>>>>>> responsive
 }
