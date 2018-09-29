@@ -1,10 +1,23 @@
 body{
+<<<<<<< HEAD
   background: yellowgreen;
   border: 10px solid rgba(14, 150, 168, 0.986);
+=======
+  background: palegreen;
+>>>>>>> responsive
   margin: 0;
 }
 h1{
   color: aliceblue;
   text-align: center;
   font-weight: 900;
+<<<<<<< HEAD
+=======
+}
+
+@media screen and (max-width: 768px) {
+ body {
+    background: darkcyan;
+  }
+>>>>>>> responsive
 }
