@@ -1,13 +1,3 @@
-# Descripción
-¿Que ha cambiado?
-
-- [ ] Frontend
-- [ ] Backend
-- [ ] configración del server
-
-# ¿Como puedo probar los cambios?
-En que url puedo probar los cambios
-
 <!-- Please fill out the title field according to our pull-requests conventions -->
 
 ### Description
